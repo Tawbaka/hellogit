@@ -20,3 +20,5 @@ git config -- global user.email
 while (d < 2)
     d ++
 ```
+
+## 4. Инициализация репозитория
